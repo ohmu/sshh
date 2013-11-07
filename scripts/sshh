@@ -1,0 +1,3 @@
+#! /usr/bin/python
+from sshh import sshh
+sshh.Shell.run_exit()
